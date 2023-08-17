@@ -1,6 +1,6 @@
 # build-folder-for-todo-list-app
 
-![App Screenshot](screenshot.png) <!-- Add a screenshot of your app here -->
+![App Screenshot]([screenshot.png](https://github.com/KabahitaVictoria/build-folder-for-todo-list-app/assets/89969629/dba1f55b-fb9c-423c-bc1f-2df9ee6f0018)) <!-- Add a screenshot of your app here -->
 ![react-todo-list-app-screenshot](https://github.com/KabahitaVictoria/build-folder-for-todo-list-app/assets/89969629/dba1f55b-fb9c-423c-bc1f-2df9ee6f0018)
 
 
