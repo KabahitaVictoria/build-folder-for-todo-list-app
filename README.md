@@ -1,6 +1,6 @@
 # build-folder-for-todo-list-app
 
-![App Screenshot]([screenshot.png](https://github.com/KabahitaVictoria/build-folder-for-todo-list-app/assets/89969629/dba1f55b-fb9c-423c-bc1f-2df9ee6f0018)) <!-- Add a screenshot of your app here -->
+## App Screenshot
 ![react-todo-list-app-screenshot](https://github.com/KabahitaVictoria/build-folder-for-todo-list-app/assets/89969629/dba1f55b-fb9c-423c-bc1f-2df9ee6f0018)
 
 
@@ -20,7 +20,7 @@ This is a simple Todo List app built using React. It allows users to manage thei
 
 ## Demo
 
-Check out the [live demo]([https://your-app-url-here.com](https://calm-truffle-4732f7.netlify.app/form)) of the app!
+Check out the [live demo](https://calm-truffle-4732f7.netlify.app/form) of the app!
 
 ## Contributing
 Contributions are welcome! If you find any bugs or want to improve the app, feel free to open an issue or submit a pull request.
